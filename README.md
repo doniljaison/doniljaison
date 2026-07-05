@@ -99,10 +99,8 @@ Research project implementing a Greedy Randomized Adaptive Search Procedure for 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=doniljaison&show_icons=true&theme=dark&hide_border=true&bg_color=00000000&title_color=C9D1D9&icon_color=C9D1D9&text_color=8b949e" />
 <img height="165" src="https://streak-stats.demolab.com?user=doniljaison&theme=dark&hide_border=true&background=00000000&ring=C9D1D9&fire=C9D1D9&currStreakLabel=C9D1D9" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doniljaison&layout=compact&hide_border=true&theme=dark&bg_color=00000000&title_color=C9D1D9" />
 
 </div>
 
