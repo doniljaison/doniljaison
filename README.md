@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+IIIT+Sri+City;Building+PRScope+and+Cadence." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C9D1D9&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+IIIT+Sri+City;Building+PRScope." alt="Typing SVG" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ### About Me
 
-I'm a B.Tech Computer Science student at **IIIT Sri City** (Class of 2027), passionate about building full-stack applications and exploring AI engineering. I like turning complex problems into clean, functional software — and letting AI handle the routine parts so I can focus on the architecture.
+I'm a B.Tech Computer Science student at **IIIT Sri City** (Class of 2027), passionate about building full-stack applications and exploring AI engineering. I like turning complex problems into clean software and letting AI handle the routine parts so I can focus on the architecture.
 
 - Currently building **PRScope**, an AI-powered PR review engine
 - Deepening my skills in backend systems, AI engineering, and cloud deployment
