@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/donil-jaison"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:donil.j23@iiits.in"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Thrissur%2C%20Kerala-000000?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Sri City-000000?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
 
 <br/>
 
@@ -16,9 +16,9 @@
 
 ### About Me
 
-I'm a B.Tech Computer Science student at **IIIT Sri City** (Class of 2027), passionate about building full-stack applications and exploring AI engineering. I enjoy turning complex problems into clean, functional software — and letting AI handle the routine parts so I can focus on the architecture.
+I'm a B.Tech Computer Science student at **IIIT Sri City** (Class of 2027), passionate about building full-stack applications and exploring AI engineering. I like turning complex problems into clean, functional software — and letting AI handle the routine parts so I can focus on the architecture.
 
-- Currently building **PRScope**, an AI-powered PR review engine, and **Cadence**, a daily accountability platform
+- Currently building **PRScope**, an AI-powered PR review engine
 - Deepening my skills in backend systems, AI engineering, and cloud deployment
 - Previously shipped MaternaGuard, a full ML-driven health risk platform
 
@@ -76,8 +76,8 @@ Role-based event management platform with Admin and Manager dashboards for sched
 <tr>
 <td width="50%" valign="top">
 
-**EcoRoute — Logistics Optimization Engine**
-Data pipeline analyzing 9,000+ shipping records to surface routing inefficiencies. Interactive model scores carrier strategies on cost vs. sustainability, visualized through a custom dashboard.
+**Parallel DNA Sequence Alignment**
+High-performance DNA sequence alignment accelerating Needleman-Wunsch and Smith-Waterman algorithms via CUDA and MPI anti-diagonal wavefront parallelization
 
 `Python` `Pandas` `Data Viz`
 
